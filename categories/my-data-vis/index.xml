@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My data vis - My Personal Website</title>
+    <link>https://TeerawitK.github.io/categories/my-data-vis/</link>
+    <description>Recent content in My data vis on My Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Oct 2022 14:33:42 -0400</lastBuildDate>
+    
+        <atom:link href="https://TeerawitK.github.io/categories/my-data-vis/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>จำนวนบุคลากรแต่ละประเภทของสำนักงานปลัดกระทรวงศึกษาธิการ พ.ศ.2564</title>
+      <link>https://TeerawitK.github.io/posts/vis2/</link>
+      <pubDate>Fri, 28 Oct 2022 14:33:42 -0400</pubDate>
+      
+      <guid>https://TeerawitK.github.io/posts/vis2/</guid>
+      <description>แผนภูมิแท่งแสดงจำนวนบุคลากรแต่ละประเภทของสำนักงานปลัดกระทรวงศึกษาธิการ พ.ศ.2564
+บุคลากรสังกัดสำนักงานปลัดกระทรวงศึกษาธิการที่มีจำนวนมากที่สุดคือครูเอกชน 106,346 คน รองลงมาคือข้าราชการครูและบุคลากรทางการศึกษา 22,379 คน พนักงานราชการ/พนักงานของรัฐ 15,267 คน ข้าราชการพลเรือน 1,980 คน ลูกจ้างประจำ 532 คน และลูกจ้างชั่วคราว 18 คน</description>
+    </item><item>
+      <title>ร้อยละของจำนวนทัศนภาพข้อมูลแต่ละรูปแบบจำแนกตามประเภทของเพจ</title>
+      <link>https://TeerawitK.github.io/posts/vis3/</link>
+      <pubDate>Fri, 28 Oct 2022 10:35:35 -0500</pubDate>
+      
+      <guid>https://TeerawitK.github.io/posts/vis3/</guid>
+      <description>แผนภูมิแท่งแสดงร้อยละของจำนวนทัศนภาพข้อมูลแต่ละรูปแบบจำแนกตามประเภทของเพจ ได้แก่ เพจเนื้อหาทั่วไป พบว่ามีการใช้ทัศนภาพข้อมูลจำนวน 23 รูปแบบ และเพจเนื้อหาเฉพาะ พบว่ามีการใช้ทัศนภาพข้อมูลจำนวน 14 รูปแบบ</description>
+    </item><item>
+      <title>ร้อยละของจำนวนนักเรียนที่มีคะแนนโอเน็ตผ่านเกณฑ์</title>
+      <link>https://TeerawitK.github.io/posts/vis1/</link>
+      <pubDate>Fri, 28 Oct 2022 10:35:35 -0500</pubDate>
+      
+      <guid>https://TeerawitK.github.io/posts/vis1/</guid>
+      <description>แผนภูมิแท่งแสดงร้อยละของจำนวนนักเรียนที่มีคะแนนโอเน็ตผ่านเกณฑ์ร้อยละ 50 ขึ้นไป จำแนกตามระดับชั้นและภูมิภาค
+นักเรียนในระดับชั้นที่มีคะแนนโอเน็ตผ่านเกณฑ์มากที่สุดคือ นักเรียนระดับชั้นประถมศึกษาปีที่ 6 รองลงมาคือนักเรียนชั้นมัธยมศึกษาปีที่ 3 และชั้นมัธยมศึกษาปีที่ 6 ตามลำดับ ส่วนภูมิภาคที่มีนักเรียนผ่านเกณฑ์มากที่สุดคือกรุงเทพมหานคร รองลงมาคือภาคกลาง ภาคเหนือ ภาคใต้ และภาคตะวันออกเฉียงเหนือตามลำดับ</description>
+    </item>
+  </channel>
+</rss>
